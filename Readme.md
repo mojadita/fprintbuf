@@ -1,6 +1,6 @@
 ## fprintbuf.  Routine to print hex dumps.
 
-This code responds this question formulated at StackOverflow.
+This code responds [this question](https://stackoverflow.com/a/57333102/3899431) formulated at StackOverflow.
 
 To execute, build with `make`, and then execute:
 
